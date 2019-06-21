@@ -1,0 +1,9 @@
+{
+
+  "url": {
+    "baseUrl": "https://m.skybet.com"
+  },
+  "apiUrl": {
+    "baseUrl": "http://localhost:8888/football/live"
+  }
+}
