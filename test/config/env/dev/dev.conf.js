@@ -32,7 +32,7 @@ exports.config = merge(main.config, {
     ],
 
     logLevel: 'silent',
-    baseUrl: 'https://www.willistowerswatson.com/',
+    baseUrl: 'http://localhost:8888/',
 
     cucumberOpts: {
         // tags: ['@test'],
